@@ -1,2 +1,0 @@
-# configTriplany
-Configuraciones de triplany
